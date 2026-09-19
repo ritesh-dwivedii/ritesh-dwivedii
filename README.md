@@ -1,29 +1,48 @@
 # 👋 Hi there, I'm Ritesh Dwivedi
 
-### 🚀 Full-Stack Developer | Java | Python | React.js | MERN | Backend Enthusiast
+### 🚀 Backend-focused Full-Stack Developer | Java | Node.js | Spring Boot | React
 
-I'm a passionate developer who enjoys building reliable, scalable, and user-focused applications. I have experience developing full-stack projects using the **MERN stack**, **Java**, **Python**, and modern tools. I'm always excited to learn new technologies and contribute to meaningful projects.
+I'm a Software Development Engineer at Toolstr, working on five production applications, including two Shopify apps rated 5.0/5. I build REST APIs, fix production bugs, and turn business needs into working features.
+
+📍 Open to Java and Node.js backend roles.
 
 ---
 
 ## 💻 Tech Stack
 
-- **Frontend:** React, JavaScript, HTML/CSS, Tailwind CSS, Bootstrap, Material UI, JSP
-- **Backend:** Node.js, Express.js, Java (Servlets & JSP), Python (Flask, Django)
-- **Database:** MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub, Vercel, Render, Netlify, Postman, VS Code
+- **Languages:** Java, JavaScript, TypeScript, PHP, SQL
+- **Backend:** Spring Boot, Node.js, Express.js, Laravel, REST APIs, GraphQL, Microservices, JWT
+- **Frontend:** React, HTML/CSS, Tailwind CSS
+- **Databases:** MySQL, MongoDB, SQL Server, DynamoDB
+- **Cloud & Tools:** AWS (EC2, S3, Lambda), Docker, RabbitMQ, Git, GitHub, Postman
 
 ---
 
-## 🌟 Featured Projects
+## 🏢 Work Highlights
+
+| Project | What I built | Tech Stack |
+|--------|--------------|------------|
+| **Local Delivery Management Platform** | Route planning, driver assignment, proof of delivery, live tracking, and a checkout date/time picker with address validation. | Laravel, React, Node.js (AWS Lambda), MySQL, JWT |
+| **Shopify Store to Mobile App Converter** | APIs for a no-code app that turns a Shopify store into a branded iOS/PWA app in under 10 minutes, with real-time sync. | Node.js, React, GraphQL, DynamoDB, ClickHouse |
+
+---
+
+## 🌟 Personal Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| **Employee Task Management System** | Microservices app with an API gateway, service discovery, JWT role-based access and async messaging. Hosted on AWS. | Java, Spring Boot, Spring Cloud Gateway, Eureka, RabbitMQ, React, MySQL, AWS |
 | **Real Trust** | A secure admin-client management system with full authentication and role-based access. | React, Node.js, Express, MongoDB |
 | **Pharmacy Store Management System** | A desktop + web app for managing inventory and orders in a pharmacy. | Java, MySQL, JSP, Servlets |
 | **Portfolio Website** | My personal portfolio to showcase skills and projects. | HTML, CSS, JS |
 
 ➡️ **More projects:** [Check out my repositories](https://github.com/ritesh-dwivedii?tab=repositories)
+
+---
+
+## 🏆 Achievements
+
+- Global Rank 2091 in TCS CodeVita Season 12 (2024)
 
 ---
 
@@ -37,8 +56,8 @@ I'm a passionate developer who enjoys building reliable, scalable, and user-focu
 
 ## 📫 Let's Connect
 
-- ✉️ Email: [riteshdwivedi729@gmail.com](mailto:riteshdwivedi729@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ritesh-dwivedii](https://linkedin.com/in/ritesh-dwivedii)
+- ✉️ Email: [riteshs2902@gmail.com](mailto:riteshs2902@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ritesh-dwivedi-66a337256](https://www.linkedin.com/in/ritesh-dwivedi-66a337256)
 - 🌐 Portfolio: [ritesh-dwivedii.github.io](https://ritesh-dwivedii.github.io)
 
 ---
